@@ -1,0 +1,6 @@
+public class Java14 {
+	public static void main(String[] args) {
+		String s="Habit is second nature";
+		System.out.println(s.substring(16, 22));
+	}
+}
