@@ -2,7 +2,7 @@ package pack6;
 import pack6.subpack1.CCircle;
 import pack6.subpack1.subsubpack.CStyle;
 import pack6.subpack2.CRectangle;
-public class Java08
+public class Class08
 {
    public static void main(String args[])
    {
